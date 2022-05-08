@@ -6,14 +6,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.2-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/htr-tech/zphisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/iampasindu/zphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/iampasindu/zphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/iampasindu/zphisher?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/iampasindu/zphisher?color=teal&style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-HTR--Tech-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-IAM--PASINDU-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
@@ -99,8 +99,8 @@ $ docker run --rm -it htrtech/zphisher
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/htr-tech" target="_blank"><img src="https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/tahmid.rayat" target="_blank"><img src="https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram"></a>
-  <a href="https://m.me/tahmid.rayat.official" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
+  <a href="https://github.com/iampasindu" target="_blank"><img src="https://img.shields.io/badge/Github-IAM--PASINDU-green?style=for-the-badge&logo=github"></a>
+  <a href="https://www.instagram.com/_.pasindu" target="_blank"><img src="https://img.shields.io/badge/IG-%40 _.pasindu-red?style=for-the-badge&logo=instagram"></a>
+  
 </p>
 
