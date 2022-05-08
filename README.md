@@ -100,7 +100,7 @@ $ docker run --rm -it htrtech/zphisher
 ### Find Me on :
 <p align="left">
   <a href="https://github.com/iampasindu" target="_blank"><img src="https://img.shields.io/badge/Github-IAM--PASINDU-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/_.pasindu" target="_blank"><img src="https://img.shields.io/badge/IG-%40 _.pasindu-red?style=for-the-badge&logo=instagram"></a>
+  <a href="https://www.instagram.com/_.pasindu" target="_blank"><img src="https://img.shields.io/badge/IG-%40 パシンドゥ -red?style=for-the-badge&logo=instagram"></a>
   
 </p>
 
